@@ -29,7 +29,7 @@ export const App = () => {
 
   const handleInput = event => {
     const {
-      target: { name, value },
+      target: { value },
     } = event;
     setFilter(value);
   };

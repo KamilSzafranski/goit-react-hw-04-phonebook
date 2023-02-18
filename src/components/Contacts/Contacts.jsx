@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react';
+import React from 'react';
 import css from './Contacts.module.css';
 import PropTypes from 'prop-types';
 import { ContactsItem } from 'components/ContactsItem/ContacsItem';
